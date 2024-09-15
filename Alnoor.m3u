@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-channel24_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+http://103.89.248.10:8082/Chanal24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-ATN news_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+http://103.89.248.10:8082/ATN-NEWS/tracks-v1a1/mono.m3u8
+
+
